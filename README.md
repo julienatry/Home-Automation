@@ -4,7 +4,7 @@ This project is meant to automate some things in my home and garage, like ceilin
 My Wi-Fi network not being able to reach my garage, i'll use a node system for the ESP32s to communicate.
 
 # Components used
-- ESP32
+- ESP8266
 - JQC-3FF-S-Z 12V relays
 - LED strips
 - RGB LED strips
